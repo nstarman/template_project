@@ -28,6 +28,8 @@ this will make the correct conda environment and install it into IPython
 
 ## Using this Work
 
+[![DOI](https://zenodo.org/badge/185856353.svg)](https://zenodo.org/badge/latestdoi/185856353)
+
 This project is licensed under the BSD-3 License - see the [LICENSE](LICENSE.md) file for details
 
 
