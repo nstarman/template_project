@@ -42,7 +42,7 @@ notebooks/**/*.png
 
 # un-comment these for projects before committing
 notebooks/_sample/*
-!papers/_sample/*
+papers/_sample/*
 presentations/_sample/*
 scripts/_sample/*
 src/_sample/*
