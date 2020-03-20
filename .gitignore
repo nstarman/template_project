@@ -4,26 +4,14 @@
 ###############################################################################
 # Project-Specific
 
-# Large Data Files
-# ex: data/
-
-## Papers
+## Papers and Presentations
 # ignores all contents except the figures & ABOUT.txt
-/papers/*/*
-!/papers/**/ABOUT.txt
-!/papers/**/figures/
-!/papers/**/figures/*
+/papers_and_presentations/*/*
+!/papers_and_presentations/**/ABOUT.txt
+!/papers_and_presentations/**/figures/
+!/papers_and_presentations/**/figures/*
 # to not ignore a paper, add the path
 # ex: !/papers/_sample/
-
-## Presentations
-# ignores all contents except the figures & ABOUT.txt
-/presentations/*/*
-!/presentations/**/ABOUT.txt
-!/presentations/**/figures/
-!/presentations/**/figures/*
-# to not ignore a presentation, add the path
-# ex: !/presentations/_sample/
 
 # scratch folder
 scratch/
@@ -41,9 +29,8 @@ envs/*/**
 notebooks/**/*.png
 
 # un-comment these for projects before committing
+papers_and_presentations/_sample/*
 notebooks/_sample/*
-papers/_sample/*
-presentations/_sample/*
 scripts/_sample/*
 src/_sample/*
 
@@ -163,7 +150,6 @@ sftp-config\.json
 
 # Latex Files
 *.aux
-*.bbl
 *.blg
 *.gz
 *.out
