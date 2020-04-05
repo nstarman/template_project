@@ -1,1 +1,1 @@
-THIS PROJECT HAS BEEN ARCHIVED. SEE [project template]()https://github.com/nstarman/project_template FOR A MODERN, COOKIECUTTER TEMPLATE BASED OFF THE ASTROPY TEMPLATE.
+THIS PROJECT HAS BEEN ARCHIVED. SEE [project template](https://github.com/nstarman/project_template) FOR A MODERN, COOKIECUTTER TEMPLATE BASED OFF THE ASTROPY TEMPLATE.
